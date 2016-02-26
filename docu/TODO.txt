@@ -1,0 +1,68 @@
+TODO:
+
+Aus Aufgabenstellung:
+
+lvl description											PT	DONE	TESTS	OWNTESTS	RDY		ASSIGN							0	NO		0		0			NO		ALL
+0	orga: organize date&tutor							0	YES		0		0			NO		ALL	
+0	orga: Date with Tutor before 5.3					0	YES		0		0			NO		ALL
+0	test: Java is compiling								0	YES		0		0			NO		ALL
+0	test: implement TestAdapterMinimal					0	YES		0		0			NO		ULF
+0	test: public Tests-Minimal							0	YES		?		0			NO		ULF
+0	lvls: parse lvls									5	YES		?		?			NO		YVI
+0	lvls: check syntax while parsind lvl				5	YES		?		?			NO		YVI
+0	lvls: toString()-Method								5	YES		?		?			NO		YVI
+0	gui : existent,playable								5	YES		?		?			NO		SASHA
+0	gui : graphical-representation of object			5	YES		?		?			NO		SASHA
+0	gui : waterflow										5	YES		?		?			NO		SASHA
+0	gui	: all levels are rendered correctly				5	YES		?		?			NO		bbb
+0	logi: level is solved-detect						5	YES		?		?			NO		JANA
+0	gui : shortcuts-management							0	YES		?		?			NO		SASHA
+0	logi: restart act lvl								2,5	YES		?		?			NO		JANA
+0	logi: exit game										2,5	YES		?		?			NO		eee
+0	logi: rotate field									0	YES		?		?			NO		JANA
+0	gui : click 2 rotate field							5	YES		?		?			NO		SASHA
+														50	0/18	0/?		0/?			0/18	5/18
+
+1	test: implement TestAdapterExtended1				0	YES		0		0			NO		ULF														
+1	test: public Test-Extended1							0	YES		?		?			NO		ULF
+1	desi: design Program - ModelViewController			0	YES		0		0			NO		ULF/ALL
+1	docu: UML-Diagram + Marks 4 MVC						7	...		0		0			NO		ULF/ALL
+1	logi: Highscore-lists								5	YES		?		?			NO		hhh
+1	gui : Highscore-GUI									5	YES		?		?			NO		iii
+1	logi: save lvl										4	NO		?		?			NO		jjj
+1	logi: load lvl										2	NO		?		?			NO		jjj
+1	logi: manual waterstart								0	YES		?		?			NO		kkk
+1	gui : manual waterstart								2	YES		?		?			NO		kkk
+														25	0/10	0/?		0/?			0/10	4/10
+
+2	test: implement TestAdapterExtended2				0	YES		0		0			NO		ULF														
+2	test: public Test-Extended2							0	YES		?		?			NO		ULF
+2	logi: undo											2,5	YES		?		?			NO		lll
+2	logi: redo											2,5	YES		?		?			NO		lll
+2	logi: additional lvlinfo							2	YES		?		?			NO		mmm
+2	gui : change theme									2	YES		?		?			NO		nnn
+2	gui : About-Window									1	YES		?		?			NO		ooo
+2	gui : navigate with keys							5	YES		?		?			NO		ppp
+														15	0/8		0/?		0/?			0/8		2/8
+														
+3	test: implement TestAdapterExtended3				0	NO		0		0			NO		ULF														
+3	test: public Test-Extended3							0	NO		?		?			NO		ULF
+3	logi: solver-function								5	NO		?		?			NO		qqq
+3	gui : gui-solver-notification						0	NO		?		?			NO		qqq
+3	logi: lvlgenerator									5	NO		?		?			NO		rrr
+														10	0/5		0/?		0/?			0/5		2/5
+														
+4	audi: Audio-Support									2	NO		?		?			NO		sss
+4	tran: Translation									3	...		?		?			NO		ttt
+4	logi: alter-gamelogic								5	NO		?		?			NO		uuu
+														10	0/3		0/?		0/?			0/3		0/3
+
+														
+Eigene Ideen:
+
+5	
+
+
+ZIELE:
+
+Warningfree code!

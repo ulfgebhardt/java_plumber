@@ -1,0 +1,101 @@
+//about window
+credits = Credits:
+names = Sascha,  Yvonne,  Ulf,  Jana
+about = <html><center>Four people came together<br> to create one game<br> in two weeks ...<\center><\html>
+
+backButton.iconName=
+backButton.label= Back
+backButton.mnemonic=b
+backButton.toolTipText=Press Button to get back to the menu
+
+//options window
+aim = <html>Goal:<br> The goal is to find a valid connection between the sink and the well <\html> 
+control = <html>Control:<br> With the mouse or the arrow keys  <\html>
+rules = <html>Rules:<br> Your Points are calculated according to every action and the time. You can undo and redo steps. A restart of a level is also possible. <br> Look at the time you have left. The water will start to flow after the time is down to zero. You can't move pipes that are filled with water.<\html>
+shortcuts = <html>Shortcuts:<br> [w] - start the water<br>[n] - restart<br>[t] - change the theme<br>[h] - Highscore<br>[q] - Quit<br>[space] - rotate<br>[Enter] - redo<br>[Backspace] - undo<\html>
+
+//highscore window
+time = Time
+points = Points
+highscore = Highscore
+
+//main menu
+startButton.iconName=
+startButton.label= Start Plumber
+startButton.mnemonic=s
+startButton.toolTipText=Press Button to start the game
+
+highscoreButton.iconName=
+highscoreButton.label= Highscore
+highscoreButton.mnemonic=h
+highscoreButton.toolTipText=Press Button to see the highscore
+
+directionsButton.iconName=
+directionsButton.label= Directions
+directionsButton.mnemonic=o
+directionsButton.toolTipText=Press Button for more options
+
+aboutButton.iconName=
+aboutButton.label= About
+aboutButton.mnemonic=a
+aboutButton.toolTipText=Press Button to learn more about the game
+
+
+
+languageMenu.iconName=
+languageMenu.label= Language
+languageMenu.mnemonic=l
+languageMenu.toolTipText=Choose language here
+
+deutschItem.iconName=
+deutschItem.label=Deutsch
+deutschItem.mnemonic=d
+deutschItem.toolTipText=WŠhle deutsch
+
+englishItem.iconName=
+englishItem.label=English
+englishItem.mnemonic=e
+englishItem.toolTipText=Choose English
+
+//window
+
+timeLeft = Time Left:
+
+restart.iconName=
+restart.label=Restart
+restart.mnemonic=r
+restart.toolTipText=Press Button to restart the level
+
+undo.iconName=
+undo.label=Undo
+undo.mnemonic=u
+undo.toolTipText=Press Button to undo last step
+
+redo.iconName=
+redo.label=Redo
+redo.mnemonic=r
+redo.toolTipText=Press Button to redo last step
+
+exit.iconName=
+exit.label=Exit
+exit.mnemonic=e
+exit.toolTipText=Press Button to exit
+
+theme.iconName=
+theme.label=Theme
+theme.mnemonic=t
+theme.toolTipText=Press Button to choose a different theme
+
+Wasser.iconName=
+Wasser.label=Water
+Wasser.mnemonic=w
+Wasser.toolTipText=Press Button to start the water flow
+
+Highscore.iconName=
+Highscore.label=Highscore
+Highscore.mnemonic=h
+Highscore.toolTipText=Show highscore for current level
+
+gameover = Game over!
+mastered = You mastered this level!
+ended = Levelset ended please go to mainmenu and select another one.

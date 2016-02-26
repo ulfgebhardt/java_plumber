@@ -1,0 +1,101 @@
+//about window
+credits = Impressum:
+names = Sascha,  Yvonne,  Ulf,  Jana 
+about = <html><center>Vier Leute fanden sich zusammen <br> in zwei Wochen <br> ein Spiel zu erstellen ...<\center><\html>
+
+backButton.iconName=
+backButton.label=Zurueck
+backButton.mnemonic=z
+backButton.toolTipText=Druecken Sie diesen Knopf um zum Menue zu gehen
+
+//options window
+aim = <html>Ziel des Spieles:<br>Durch rotieren der Rohre eine funktionierende Verbindung zwischen der Quelle und der Senke herstellen.<\html>
+control = <html>Steuerung:<br>Mit der Maus und/oder Tastatur (Pfeiltasten)<\html>
+rules = <html>Regeln:<br>Aus jeder Aktion und der Zeit wird der Punktestand errechnet. Sie können Schritte rueckgaengig machen und wiederholen lassen, auch ein Neustart ist möglich.<br>Achten Sie auf die ablaufende Zeit! Nach Ablauf der Zeit beginnt das Wasser automatisch zu fließen. Gefuellte Rohre sind nicht mehr drehbar.<\html>
+shortcuts = <html>Tastenbelegung:<br>[w] - Wasser starten<br>[n] - Neustart<br>[t] - Thema wechseln<br>[h] - Bestenliste<br>[q] - Beenden<br>[Leertaste] - rotieren<br>[Enter] - Wiederholen<br>[Backspace] - Zurueck<\html>
+
+//highscore window
+time = Zeit
+points = Punkte
+highscore = Bestenliste
+
+//main menu
+startButton.iconName=
+startButton.label= Starte Plumber
+startButton.mnemonic=s
+startButton.toolTipText=Druecken Sie diesen Knopf zum Starten
+
+highscoreButton.iconName=
+highscoreButton.label= Highscore
+highscoreButton.mnemonic=h
+highscoreButton.toolTipText=Hier sehen Sie den Highscore
+
+directionsButton.iconName=
+directionsButton.label= Anleitung
+directionsButton.mnemonic=o
+directionsButton.toolTipText=Klicken Sie hier fuer weiter Optionen
+
+aboutButton.iconName=
+aboutButton.label= Informationen
+aboutButton.mnemonic=i
+aboutButton.toolTipText=Klicken Sie hier fuer weiter Informationen
+
+
+languageMenu.iconName=
+languageMenu.label= Sprache
+languageMenu.mnemonic=l
+languageMenu.toolTipText=Sprache hier auswaehlen
+
+deutschItem.iconName=
+deutschItem.label=Deutsch
+deutschItem.mnemonic=d
+deutschItem.toolTipText=Waehle deutsch
+
+englishItem.iconName=
+englishItem.label=English
+englishItem.mnemonic=e
+englishItem.toolTipText=Choose English
+
+//window
+
+timeLeft = Übrige Zeit:
+
+restart.iconName=
+restart.label=Neustart
+restart.mnemonic=n
+restart.toolTipText=Druecken Sie diesen Knopf zum Neustarten
+
+undo.iconName=
+undo.label=<<<
+undo.mnemonic=r
+undo.toolTipText=Druecken Sie diesen Knopf um den letzten Schritt rueckgaengig zu machen
+
+redo.iconName=
+redo.label=>>>
+redo.mnemonic=w
+redo.toolTipText=Druecken Sie diesen Knopf um den letzten Schritt zu Wiederholen
+
+exit.iconName=
+exit.label=Beenden
+exit.mnemonic=b
+exit.toolTipText=Druecken Sie diesen Knopf zum Beenden
+
+theme.iconName=
+theme.label=Thema
+theme.mnemonic=t
+theme.toolTipText=Druecken Sie diesen Knopf um ein anderes Thema auszusuchen
+
+Wasser.iconName=
+Wasser.label=Wasser
+Wasser.mnemonic=w
+Wasser.toolTipText=Druecken Sie diesen Knopf um das Wasser zu starten
+
+Highscore.iconName=
+Highscore.label=Highscore
+Highscore.mnemonic=h
+Highscore.toolTipText=Zeigt Highscore fuer aktuelles Levelset
+
+
+gameover = Spiel vorbei!
+mastered = Level geschafft!
+ended = Das Levelpaket ist zu Ende. Bitte im Hauptmenü ein neues wählen.

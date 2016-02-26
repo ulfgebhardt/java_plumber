@@ -1,0 +1,14 @@
+RULES:
+
+01. Do not talk about FightClub
+02. Do not talk about FightClub
+03. A fight lasts as long as it has to
+04. document ALL code always ever at anytime
+05. use svn extensivly
+06. document ALL code always ever at anytime
+07. use Altova UModel 2 maintain and plan the project
+08. use logic structures, use packages&subpackages
+09. document ALL code always ever at anytime
+10. logic != gui
+11. write tests!!!
+12. document ALL code always ever at anytime
